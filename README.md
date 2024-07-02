@@ -1,5 +1,5 @@
 # Learn-Tech
-It's a learning platform for students ...
+It's a learning platform for students ... Full Responsive Website For Learner
 
 
 Live Project Link = https://chetan7895.github.io/Learn-Tech/
